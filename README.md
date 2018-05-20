@@ -1,5 +1,7 @@
 ## Debugging the acceptance tests
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NiGhTTraX/todomvc-react-tdd.svg)](https://greenkeeper.io/)
+
 ### Watching the browser
 
 Run `npm run test:acceptance:debug` and when you start seeing output from the
